@@ -1,0 +1,70 @@
+commit 99ae7ba04d0bbffd01302f775173367dfbb61da4
+Merge: 7c83232 b184cc4
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:48:35 2024 -0700
+
+    resolved merge conflicts
+
+commit b184cc4d91f5a81c9ac9b7c29cf3f358de7fd265
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:45:21 2024 -0700
+
+    added fav movie
+
+commit 7c83232807041659760f13611097702b347e8db3
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:44:07 2024 -0700
+
+    added favorite food
+
+commit 52bbeec02c5fbf7adfe024808d863aa1fd2662a8
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:38:38 2024 -0700
+
+    commit my read me
+
+commit 393df442db5abf35cf28641f154038e980ec69e5
+Author: csupreyes30 <preyes30@calstatela.edu>
+Date:   Thu Sep 19 19:37:43 2024 -0700
+
+    Delete README.md
+
+commit 9d5a167f14ed8f3ec8eb433a17ce41178a454f68
+Merge: 823b958 74bcea3
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:37:32 2024 -0700
+
+    commiting idk
+
+commit 74bcea3254e4b1acf8cf0fa289b1525e61f8685b
+Author: csupreyes30 <preyes30@calstatela.edu>
+Date:   Thu Sep 19 19:33:05 2024 -0700
+
+    Create README.md
+
+commit 823b958d73777710641f91162a45cbeb1c51754d
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:31:51 2024 -0700
+
+    add readme.md
+
+commit f0bcda2fd11bcc71807786a507206ad6eaadd2e2
+Merge: 1d2bfc0 32e83f9
+Author: csupreyes30 <preyes30@calstatela.edu>
+Date:   Thu Sep 19 19:31:42 2024 -0700
+
+    Merge pull request #1 from csupreyes30/info-fill
+    
+    filled in the blanks
+
+commit 32e83f945a174b6373f1f56a5cadf2d6990acdf5
+Author: Perla Reyes <prortega0918@gmail.com>
+Date:   Thu Sep 19 19:24:31 2024 -0700
+
+    filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
